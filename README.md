@@ -1,72 +1,37 @@
-Hi 👋, I'm Elius Wanyoro
-A graduate of Moringa, ready to start working with iTalanta open-source!
+![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 
-Elius's LinkedIn   Jente Rosseel's Stack Overflow
+<h1 align="center">Hi 👋, I'm  Elius Wanyoro </h1>
+<h3 align="center">A passionate and ambitious full-stack developer.</h3>
 
-Overview
-Get to know me
-💬 I'm an expert on the technologies React and Ruby on Rails. Currently studying typescript and angular as part of my internship at Italanta
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif">
 
-📝 I regularly write articles on [https://blog.medium.com/]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EliusCaleb&label=Profile%20views&color=0e75b6&style=flat" alt="EliusCaleb" /> </p>
 
-📄 Know about my experiences through my CV
+- 🔭 I’m currently working on **perfecting my backend skills in ruby, Rails, API Development (Rails Rest Framweork) while mastering data structures & algorithms**
 
-🌱 I’m currently developing an intern at Italanta.
+- 🌱 I’m currently learning **Angular**
 
-⚡ Fun fact? Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹
+- 👯 I’m looking to collaborate on **any challenge that seeks to make life better and simpler.**
 
-My work
-🔭 I’m currently working on Elewa
+- 🤝 I’m looking for help with **Azure**
 
-🔭 I’m currently working on Kujali
+- 💬 Ask me about **web apps, and tech.**
 
-🤝 About to score this bounty!
+- 📫 How to reach me **eliuswanyoro@gmail.com**
+- 📫 Reach me on **@WanyoroElius**
 
-👨‍💻 Review my projects at https://github.com/italanta
+- ⚡ Fun fact **Am passionate about tech-start-up . Am a code-mind.**
 
-Interested ?
-📫 Reach me on eliuswanyoro@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2FA9YNziFSGGl4fM0tjiopA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/belinda-ntinyari-3843a81b5/" height="30" width="40" /></a>
 
+</p>
 
-📫 Reach me on @WanyoroElius
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactjs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img 
+ <a href="https://ruby" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/man" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EliusCaleb&show_icons=true&locale=en&layout=compact" alt="EliusCaleb" /></p>
 
-My experience
-Project Salama
-2023
-
-Started in 2020 with an idea to create a new tracking device that was hard to locate and dismantle
-
-Motorcycle theft and related crimes have been on the rise leading to loss of assets and lives. This was the genesis of the Salama Tracking Technologies. We exist to protect your assets.
-
-We are creating custom tracking solutions for the Boda Boda Industry. Specializing in creating hardware devices running on custom software solutions.
-
-I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
-
-
-My contributions
-Date	Issue	Status	Link
-17/01/23	🏇 Upgrade performance of financial forecasts	Completed	#22
-12/01/23	🏇 Upgrade performance of financial forecasts	Closed/Approved	#22
-The technologies I used
-typescript angular html5 css3 gcp firebase nodejs chartjs
-
-Project Elewa
-2022 - 2023
-
-The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
-
-I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
-
-
-My contributions
-Date	Issue	Status	Link
-26/09/22	🚚🏠⚡ Conversations state and model layer	Merged	#79
-01/08/22	🚀 Add serverless backend capabilities	Merged	#19
-12/07/22	🚀 Setup the application	Merged	#2
-11/07/22	🏠 Data model for story and story blocks	Merged	#1
-The technologies I used
-typescript angular html5 css3 gcp firebase nodejs
-
-My GitHub Overview
- EliusCaleb
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EliusCaleb&show_icons=true&locale=en" alt="EliusCaleb" /></p>
