@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EliusCaleb&label=Profile%20views&color=0e75b6&style=flat" alt="EliusCaleb" /> </p>
 
-- 🔭 I’m currently working on **perfecting my backend skills in ruby, Rails, API Development (Rails Rest Framweork) while mastering data structures & algorithms**
+- 🔭 I’m currently working on **perfecting my backend skills in ruby, Rails, API Development (Rails Rest Framwork) while mastering data structures & algorithms**
 
 - 🌱 I’m currently learning **Angular**
 
