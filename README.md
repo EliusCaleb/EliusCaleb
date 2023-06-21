@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **perfecting my backend skills in ruby, Rails, API Development (Rails Rest Framwork) while mastering data structures & algorithms**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Firebase**
 
 - 👯 I’m looking to collaborate on **any challenge that seeks to make life better and simpler.**
 
