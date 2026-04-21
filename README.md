@@ -118,6 +118,6 @@
 </p>
 
 <p align="left">
-  Certified by <strong>ALX Africa</strong> />
+  Certified by <strong>ALX Africa</strong> 
   Proficient in designing scalable, fault-tolerant cloud architectures on AWS — including EC2, S3, RDS, Lambda, VPC, IAM, and CloudFormation.
 </p>
