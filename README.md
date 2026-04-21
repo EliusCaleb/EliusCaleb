@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **web apps, and tech.**
 
-- 📫 How to reach me **eliuswanyoro@gmail.com**
+- 📫 How to reach me **eliusgachango@gmail.com**
 - 📫 Reach me on **@WanyoroElius**
 
 - ⚡ Fun fact **Am passionate about tech-start-up . Am a code-mind.**
